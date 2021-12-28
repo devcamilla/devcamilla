@@ -20,3 +20,6 @@
      * Dynamic Enemy Spawn & Movement
      * Player Power Up
   * Tech Stack: Unity 2020, Visual Studio 2019 - C#
+
+
+##### _Available for freelance work, part-time, full-time projects. </br>You can reach me at 📬 hello@camillasantiago.com_
