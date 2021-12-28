@@ -9,7 +9,7 @@
    * Aesthetic & Lofi Music
    * Casual to Idle Gaming
  * Status: **Android Beta** 
-   * Join the [Window Garden Newsletter](eepurl.com/hLLqUH)
+   * Join the [Window Garden Newsletter](https://eepurl.com/hLLqUH)
    * Get it on [Google Play](https://play.google.com/store/apps/details?id=com.cloverfi.windowgarden)
  * Tech Stack: Unity 2020, Visual Studio 2019 - C#, Aseprite
  
