@@ -5,8 +5,8 @@
 * Working on my first commercial title, [Window Garden - Lofi Idle Game](https://play.google.com/store/apps/details?id=com.cloverfi.windowgarden). 
   * Genre: Casual, Simulation, 2D
   * Status: **Android Beta** 
-    * Join the [Window Garden Newsletter](https://eepurl.com/hLLqUH)
-    * Get it on [Google Play](https://play.google.com/store/apps/details?id=com.cloverfi.windowgarden)
+    * Join the [Window Garden Newsletter](https://cloverfigames.com/newsletter.html)
+    * Get it on [Google Play](https://play.google.com/store/apps/details?id=com.cloverfi.windowgarden) and the [App Store](https://apps.apple.com/us/app/window-garden-lofi-idle-game/id6473402739)
   * Design Pillars:
     * Indoor Gardening Simulation
     * Aesthetic & Lofi Music
@@ -22,6 +22,3 @@
      * Dynamic Enemy Spawn & Movement
      * Player Power Up
   * Tech Stack: Unity 2020, Visual Studio 2019 - C#
-
-
-##### _Available for freelance work, part-time, full-time projects. </br>You can reach me at 📬 hello@camillasantiago.com_
